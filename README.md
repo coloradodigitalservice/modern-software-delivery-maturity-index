@@ -256,4 +256,4 @@
 
 <p>This maturity index was derived from guidance produced by <a href="https://18f.gsa.gov/">18F</a>, the <a href="https://www.gov.uk/service-manual/service-assessments">UK.gov digital team</a>, and the <a href="https://www.hks.harvard.edu/educational-programs/masters-programs/master-public-policy">Harvard Kennedy School of Public Policy</a>.</p>
 <p>This content is licensed CC0 1.0 Universal Public Domain.</p>
-<p>Assembled and published by the [Colorado Digital Service](https://www.colorado.gov/digitalservice).</p>
+<p>Assembled and published by the <a href="https://www.colorado.gov/digitalservice">Colorado Digital Service</a>.</p>
