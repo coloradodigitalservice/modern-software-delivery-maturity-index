@@ -110,31 +110,35 @@
     <td>
       <ul>
         <li>Confusion or lack of understanding of who will use the output of the project or who will be ultimately impacted</li>
-        <li>No engagement with the people that will use the output of the project</li>
         <li>Work is performed with a "solution-first" focus; Assumptions are stated as fact</li>
+        <li>No engagement with the people that will use the output of the project</li>
         <li>Decisions related to priority and implementation are driven primarily by a stakeholder that is close to the project</li>
         <li>The team identifies important considerations or constraints late in the process, requiring them to conduct re-work</li>
         <li>End-users feel frustrated, disempowered, and alienated</li>
+        <li>The output of the work has many barriers to access</li>
         <li>No authorization to spend time or money on user research</li>
       </ul>
     </td>
     <td>
       <ul>
         <li>A shared understanding of who will use the output of the project; lack of understanding of who will be impacted</li>
+        <li>Work begins with a "solution-first" focus; Assumptions are stated as fact</li>
         <li>Living experts are consulted at the beginning or end of the project, or living experts are consulted so much that they are overwhelmed.</li>
         <li>Information collected from living experts is not shared amongst the entire team.</li>
         <li>Decisions related to priority and implementation are driven by a best guess of what end-users need</li>
-        <li>Work begins with a "solution-first" focus; Assumptions are stated as fact</li>
         <li>People engage with the output of the project, though not quite as expected</li>
+        <li>The output of the work is accessible but has other barriers that prevent people from meaningfully engaging with it (eg. only available in English)</li>
         <li>No authorization to spend money on user research</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>Ongoing incremental value delivered to people who will use the output of the project; shared understanding of the impact</li>
-        <li>Living experts are regularly engaging with the team in order to drive prioritization and implementation decisions</li>
+        <li>A shared understanding of the people that will engage and/or are impacted by the output of the project</li>
         <li>Work begins with a "problem-first" focus and the team identifies the best path forward; The team regularly evaluates their assumptions</li>
+        <li>Living experts are regularly engaging with the team in order to drive prioritization and implementation decisions and are properly compensated for their time</li>
+        <li>Ongoing incremental value is delivered to people who will use the output of the project; shared understanding of the impact</li> 
         <li>People regularly engage with the output of the project as expected</li>
+        <li>The output of the project is accessible and equitable for all people who engage with it</li>
       </ul>
     </td>
   </tr>
