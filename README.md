@@ -113,7 +113,7 @@
         <li>No engagement with the people that will use the output of the project</li>
         <li>Work is performed with a "solution-first" focus; Assumptions are stated as fact</li>
         <li>Decisions related to priority and implementation are driven primarily by a stakeholder that is close to the project</li>
-        <li>After work is complete, it must be re-done because people are not engaging with it as expected</li>
+        <li>The team identifies important considerations or constraints late in the process, requiring them to conduct re-work</li>
         <li>End-users feel frustrated, disempowered, and alienated</li>
         <li>No authorization to spend time or money on user research</li>
       </ul>
